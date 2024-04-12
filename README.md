@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snicktheporcupine, aka starjojostar (jojo works though)
 - 👀 I’m interested in pizza tower, srb2, animation and game development
 - 🌱 I’m currently learning programming and basic game design 
-- 💞️ I’m looking to collaborate on a pizza tower fangame, Pizza2ower (this name is a placeholder)
+- 💞️ I’m looking to collaborate on a pizza tower fangame, Pizza Reverie
 - 📫 How to reach me- @X5Ampy on twt, starjojostar on yt, on tumblr, and that is all you get to know
 
 <!---
