@@ -2,7 +2,7 @@
 - 👀 I’m interested in pizza tower, srb2, animation and game development
 - 🌱 I’m currently learning programming and basic game design 
 - 💞️ I’m looking to collaborate on a pizza tower fangame, Pizza Reverie
-- 📫 How to reach me- @X5Ampy on twt, starjojostar on yt, on tumblr, and that is all you get to know
+- 📫 How to reach me- @starjojostar on twt, starjojostar on yt, on tumblr, and that is all you get to know
 
 <!---
 snicktheporcupine/snicktheporcupine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
